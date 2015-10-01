@@ -1,0 +1,11 @@
+Name,Age,Mark1,Mark2
+Shazin,28,60,40
+Shahim,28,70,30
+Ruwan,26,50,30
+Gunith,28,75,40
+Samitha,30,55,45
+Gamitha,18,90,70
+Nishan,21,45,78
+Manel,22,78,28
+Sunil,35,12,31
+Kamal,34,98,21
